@@ -309,7 +309,7 @@ export const projects = [
     description:
       "Afrikkom Global is a company website built using Next.js. It showcases the company's services, team, and portfolio in an elegant and user-friendly manner.",
     image:
-    "https://private-user-images.githubusercontent.com/145537002/318922306-0219f9d9-fccc-43bd-989c-938d85b33f9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODMxMzcsIm5iZiI6MTcxMjA4MjgzNywicGF0aCI6Ii8xNDU1MzcwMDIvMzE4OTIyMzA2LTAyMTlmOWQ5LWZjY2MtNDNiZC05ODljLTkzOGQ4NWIzM2Y5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQxODMzNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOWRmNzRkNzYzMDc1YmU5ODY1ODUzZTMyNzdiZWIxOTkxOGFjZjlhOTQzY2YxZmNlN2RjNTIwNTQxZjJhYjZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YsHxL3ST2LmqpD_kp3xPD3eTaf7UdEWzvIUgZsV0Z7A",
+    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20143922.png?raw=true",
     tags: [
       "Next.js",
       "React.js",
@@ -334,7 +334,7 @@ export const projects = [
     description:
       "Developed an educational website using React.js that serves as a Learning Management System (LMS). LMS is a software application or platform designed to facilitate the management, delivery, and tracking of educational courses and training programs. It empowers educators and institutions to create, manage, and assess courses with ease. Implemented responsive design to ensure accessibility on mobile devices. Technologies Used: React.js, Javascript, Bootstrap, Redux, RESTful APIs, HTML5, CSS3. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "https://private-user-images.githubusercontent.com/145537002/318921199-adbe3c76-a384-4e2e-8e47-9b1f18b6711c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODI4NzksIm5iZiI6MTcxMjA4MjU3OSwicGF0aCI6Ii8xNDU1MzcwMDIvMzE4OTIxMTk5LWFkYmUzYzc2LWEzODQtNGUyZS04ZTQ3LTliMWYxOGI2NzExYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQxODI5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMDYyNjQyYTczZjM3MGE3YjEyMjFkOTJkMTYwZGNhYWM0YzQxZWZmMTIyM2ZlN2I5NTRlNzkyMmE1MjE1NWU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.m09pi_7OjvCw0vlEooqn0LGuTB3iKGCoN9aVyse8PFQ",
+      "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20143922.png?raw=true",
     tags: ["React Js", "Next.js", "Javascript","Bootstrap", "Redux", "RESTful APIs", "HTML5", "CSS3"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Podstream",
@@ -347,7 +347,7 @@ export const projects = [
     description:
       "AM Chat AI: a smart chat app that makes communication easy and efficient. It's built using React.js, TypeScript, HTML, CSS, and REST APIs. AM Chat AI is not your ordinary chat app. It's smart and can do cool things like reading documents. You can upload any document, and the AI will quickly read it, so you can discuss its contents with others.",
     image:
-      "https://private-user-images.githubusercontent.com/145537002/318921721-886a9a81-44a2-47cc-88e6-6e36284c5d30.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODI5OTUsIm5iZiI6MTcxMjA4MjY5NSwicGF0aCI6Ii8xNDU1MzcwMDIvMzE4OTIxNzIxLTg4NmE5YTgxLTQ0YTItNDdjYy04OGU2LTZlMzYyODRjNWQzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQxODMxMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTExMzdiODZiNjMxMWU0OTdjODMzY2QwOTE3ZjI4ODVhOWZlOTc1OTM2NGIyN2RhNTk2MjM2MDA0YjFiODUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._QaSPtpaD90C7yXmXX7231QGA7cYE82adAs5MuXMNwg",
+      "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20144144.png?raw=true",
     tags: [
       "React Js",
       "TypeScript",
