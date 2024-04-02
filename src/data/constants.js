@@ -309,7 +309,7 @@ export const projects = [
     description:
       "Afrikkom Global is a company website built using Next.js. It showcases the company's services, team, and portfolio in an elegant and user-friendly manner.",
     image:
-    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20143922.png?raw=true",
+    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-04-03%20000324.png?raw=true",
     tags: [
       "Next.js",
       "React.js",
