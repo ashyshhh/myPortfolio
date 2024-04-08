@@ -360,6 +360,37 @@ export const projects = [
     // github: "https://github.com/rishavchanda/Project-Management-App",
     // webapp: "https://vexa-app.netlify.app/",
   },
+  {
+    id: 2,
+    title: "Physician App",
+    date: "Mar 2022 - Dec 2022",
+    description:
+      "Developed a healthcare management web application that streamlined patient interactions and medical record access. Implemented user authentication, role-based access control, and data encryption. Utilized React.js with Bootstrap for the frontend and Node.js for the backend. Implemented user authentication, role-based access control, and data encryption to safeguard sensitive medical information and ensure secure access. Technologies Used: React.js, Bootstrap, Redux, RESTful APIs, Node.js, HTML5, CSS3, Material-UI.",
+    image:
+    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-04-08%20230836.png?raw=true",
+    tags: [
+      "React.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Bootstap",
+      "Redux",
+      "RESTful APIs",
+      "NodeJs",
+      "ExpressJS",
+      "MySql",
+
+      // "CI/CD",
+      // "React Js",
+      // "MongoDb",
+      // "Node Js",
+      // "Express Js",
+      // "Redux",
+    ],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Trackify",
+    webapp: "http://13.233.165.76/welcome",
+  },
   // {
   //   id: 6,
   //   title: "Breaking Bad",
