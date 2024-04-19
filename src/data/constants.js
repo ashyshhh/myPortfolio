@@ -183,7 +183,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/D4D0BAQE7HbMXfd-x9Q/company-logo_200_200/0/1695722714589/linkquesttechnologies_logo?e=2147483647&v=beta&t=vvw_b3ATSXxMHdzNIlJIsastQMWPhrSmQquJfugesHs",
     role: "React JS devloper",
     company: "Linkquest Telecom South Africa (pty) Ltd",
-    date: "Aug 2023 - July 2023",
+    date: "Dec 2021 - Till date",
     desc: "As a React.js Developer at LinkQuest Telecom, I've been integral to numerous projects aimed at enhancing connectivity and communication solutions. LinkQuest Telecom, while primarily focused on telecommunications, also takes on projects spanning various industries, making for a dynamic and enriching work environment. In my role, I've utilized my expertise in JavaScript, React.js, Redux, SQL, HTML, CSS, Material UI, and React Native to contribute to the development of robust and scalable solutions. From frontend development to integrating complex functionalities, I've been involved in all stages of the project lifecycle. During my 2.4 years of tenure, I've not only honed my technical skills but also developed strong collaboration and problem-solving abilities. LinkQuest Telecom has provided me with the opportunity to work on diverse projects alongside talented professionals, driving innovation across different sectors.",
     skills: ["React Js", "TypeScript","javaScript",  "HTML", "CSS", "Redux", "React Native", "Node JS", "Express Js"],
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
