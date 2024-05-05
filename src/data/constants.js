@@ -5,7 +5,7 @@ export const Bio = {
   description:
     "With 2.5 years of hands-on experience, I'm a dedicated React JS developer who thrives on challenges and delivers exceptional results. I bring a dynamic approach to problem-solving and a passion for crafting seamless user experiences. With a growth-oriented mindset, I'm poised to make impactful contributions and achieve remarkable milestones.",
   github: "",
-  resume: "https://drive.google.com/file/d/1VKO8hJ0BAnJ0FbC2As3AU3OcC95gSNmA/view?usp=sharing",
+  resume: "https://ashyshhfileupload.s3.eu-north-1.amazonaws.com/new/Ashish_Resume.pdf",
   linkedin: "https://www.linkedin.com/in/ashish-jha-90054b233/",
   twitter: "https://twitter.com/example",
   insta: "https://instagram.com/example",
