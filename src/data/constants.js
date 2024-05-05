@@ -3,8 +3,8 @@ export const Bio = {
   name: "Ashish Jha",
   roles: ["React JS Developer"],
   description:
-    "With 2.4 years of hands-on experience, I'm a dedicated React JS developer who thrives on challenges and delivers exceptional results. I bring a dynamic approach to problem-solving and a passion for crafting seamless user experiences. With a growth-oriented mindset, I'm poised to make impactful contributions and achieve remarkable milestones.",
-  github: "https://github.com/ashyshhh",
+    "With 2.5 years of hands-on experience, I'm a dedicated React JS developer who thrives on challenges and delivers exceptional results. I bring a dynamic approach to problem-solving and a passion for crafting seamless user experiences. With a growth-oriented mindset, I'm poised to make impactful contributions and achieve remarkable milestones.",
+  github: "",
   resume: "https://drive.google.com/file/d/1VKO8hJ0BAnJ0FbC2As3AU3OcC95gSNmA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ashish-jha-90054b233/",
   twitter: "https://twitter.com/example",
@@ -284,7 +284,7 @@ export const education = [
   {
     id: 1,
     img: "https://content.jdmagicbox.com/comp/samastipur/q4/9999p6274.6274.231121150757.s4q4/catalogue/ahs-nursing-college-and-hospital-shambhupatti-samastipur-nursing-institutes-wc05m5sm99.jpg",
-    school: "Singhia College, Singhia ",
+    school: "Singhia College ",
     date: "May 2016 - Apr 2018",
     // grade: "88.2%",
     // desc: "I completed my class 12 high school education at Surat Pandey Degree College, Garhwa where I studied Science.",
@@ -293,7 +293,7 @@ export const education = [
   {
     id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnixgJ55VVD7uw-Y7DP-nn_vu0JC_Nrw9EVw&usqp=CAU",
-    school: "BNB High School, Samastipur",
+    school: "BNB High School",
     date: "May 2014 - Apr 2016",
     // grade: "92.3%",
     // desc: "I completed my class 10 education at Govind High School, Garhwa where I studied Science with Computer Application.",
@@ -302,44 +302,6 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "Afrikkom Global",
-    date: "Jan 2024 - Mar 2024",
-    description:
-      "Afrikkom Global is a company website built using Next.js. It showcases the company's services, team, and portfolio in an elegant and user-friendly manner.",
-    image:
-    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-04-03%20000324.png?raw=true",
-    tags: [
-      "Next.js",
-      "React.js",
-      "JavaScript",
-      "CSS",
-      "HTML",
-      // "CI/CD",
-      // "React Js",
-      // "MongoDb",
-      // "Node Js",
-      // "Express Js",
-      // "Redux",
-    ],
-    category: "web app",
-    // github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://afrikkomglobal.info/",
-  },
-  {
-    id: 0,
-    title: "LMS",
-    date: "Mar 2023 - Dec 2023",
-    description:
-      "Developed an educational website using React.js that serves as a Learning Management System (LMS). LMS is a software application or platform designed to facilitate the management, delivery, and tracking of educational courses and training programs. It empowers educators and institutions to create, manage, and assess courses with ease. Implemented responsive design to ensure accessibility on mobile devices. Technologies Used: React.js, Javascript, Bootstrap, Redux, RESTful APIs, HTML5, CSS3. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20143922.png?raw=true",
-    tags: ["React Js", "Next.js", "Javascript","Bootstrap", "Redux", "RESTful APIs", "HTML5", "CSS3"],
-    category: "web app",
-    // github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://afrikkomglobal.info/",
-  },
   {
     id: 1,
     title: "AM CHAT AI",
@@ -355,15 +317,78 @@ export const projects = [
       "HTML",
       "Redux",
       "JavaScript",
+      "RESTful APIs",
+      "NodeJs",
+      "ExpressJS",
+      "MongoDB",
     ],
     category: "web app",
     // github: "https://github.com/rishavchanda/Project-Management-App",
-    // webapp: "https://vexa-app.netlify.app/",
+    webapp: "https://amchatd1.areteminds.com/",
   },
+  {
+    id: 3,
+    title: "Snapdeal",
+    date: "Aug 2023 - Dec 2023",
+    description:
+    "Worked on enhancing user experience and optimizing performance on Snapdeal's e-commerce platform. Collaborated with the snapdeal team to implement new features and resolve issues, ensuring a seamless shopping experience for the users.",
+    image:
+    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-05-05%20155111.png?raw=true",
+    tags: [
+      "React.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "RESTful APIs",
+    ],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://snapdeal.com/",
+  },
+  {
+    id: 9,
+    title: "Afrikkom Global",
+    date: "Apr 2023 - Jun 2023",
+    description:
+      "Afrikkom Global is a company website built using Next.js. It showcases the company's services, team, and portfolio in an elegant and user-friendly manner.",
+    image:
+    "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-04-03%20000324.png?raw=true",
+    tags: [
+      "Next.js",
+      "React.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Bootstrap"
+      // "CI/CD",
+      // "React Js",
+      // "MongoDb",
+      // "Node Js",
+      // "Express Js",
+      // "Redux",
+    ],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://afrikkomglobal.com/",
+  },
+  {
+    id: 0,
+    title: "LMS",
+    date: "Oct 2022 - Mar 2023",
+    description:
+      "Developed an educational website using React.js that serves as a Learning Management System (LMS). LMS is a software application or platform designed to facilitate the management, delivery, and tracking of educational courses and training programs. It empowers educators and institutions to create, manage, and assess courses with ease. Implemented responsive design to ensure accessibility on mobile devices. Technologies Used: React.js, Javascript, Bootstrap, Redux, RESTful APIs, HTML5, CSS3. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    image:
+      "https://github.com/ashyshhh/myPortfolio/blob/master/Screenshot%202024-03-11%20143922.png?raw=true",
+    tags: ["React Js", "Next.js", "Javascript","Bootstrap", "Redux", "RESTful APIs", "HTML5", "CSS3"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://afrikkomglobal.com/",
+  },
+
   {
     id: 2,
     title: "Physician App",
-    date: "Mar 2022 - Dec 2022",
+    date: "Mar 2022 - Sep 2022",
     description:
       "Developed a healthcare management web application that streamlined patient interactions and medical record access. Implemented user authentication, role-based access control, and data encryption. Utilized React.js with Bootstrap for the frontend and Node.js for the backend. Implemented user authentication, role-based access control, and data encryption to safeguard sensitive medical information and ensure secure access. Technologies Used: React.js, Bootstrap, Redux, RESTful APIs, Node.js, HTML5, CSS3, Material-UI.",
     image:
@@ -404,6 +429,7 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Breaking-Bad",
   //   webapp: "https://breaking-bad-webapp.netlify.app",
   // },
+
 ];
 
 export const TimeLineData = [
