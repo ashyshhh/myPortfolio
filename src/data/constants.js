@@ -1,12 +1,12 @@
 import Afri from '../data/afri.png';
 export const Bio = {
   name: "Ashish Jha",
-  roles: ["React JS Developer"],
+  roles: ["Full Stack Developer"],
   description:
-    "With 2.5 years of hands-on experience, I'm a dedicated React JS developer who thrives on challenges and delivers exceptional results. I bring a dynamic approach to problem-solving and a passion for crafting seamless user experiences. With a growth-oriented mindset, I'm poised to make impactful contributions and achieve remarkable milestones.",
+"With 3.5 years of hands-on experience, I'm a dedicated Full Stack Developer specializing in React JS who thrives on challenges and delivers exceptional results. I bring a dynamic approach to problem-solving and a passion for crafting seamless user experiences, both on the front-end and back-end. With a growth-oriented mindset, I'm poised to make impactful contributions and achieve remarkable milestones.",
   github: "https://github.com/ashyshhh",
   resume: "https://ashyshhfileupload.s3.eu-north-1.amazonaws.com/new/Ashish_Resume.pdf",
-  linkedin: "https://www.linkedin.com/in/ashish-jha-90054b233/",
+  linkedin: "https://www.linkedin.com/in/ashyshhh",
   twitter: "https://twitter.com/example",
   insta: "https://instagram.com/example",
   facebook: "https://facebook.com/example",
@@ -56,6 +56,10 @@ export const skills = [
         image:
           "data:image/png;base64,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",
       },
+            {
+        name: "Wordpress",
+        image:
+"https://play-lh.googleusercontent.com/aPsA6vS25mrocOJqZhTZyxm7sntS_IZuHh4oLBI6v-70A_mLV0Fe0spqSDTbK_Fy8As"      },
       // {
       //   name: "Flutter",
       //   image:
@@ -98,6 +102,16 @@ export const skills = [
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },
+            {
+        name: "Woocommerce",
+        image:
+          "https://play-lh.googleusercontent.com/aPsA6vS25mrocOJqZhTZyxm7sntS_IZuHh4oLBI6v-70A_mLV0Fe0spqSDTbK_Fy8As",
+      },
+                  {
+        name: "PHP",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
       },
       // {
       //   name: "Firebase",
@@ -178,16 +192,35 @@ export const skills = [
 ];
 
 export const experiences = [
+    {
+    id: 1,
+    img: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rbaleym7v9gph0mxtnr2",
+    role: "Associate Fullstack Developer",
+    company: "Brave Labs Private Limited",
+    date: "May 2024 – Present",
+    desc: "Developed full-stack web applications using React.js and Node.js. Created and managed MySQL databases and integrated APIs using Express.js. Collaborated with marketing teams to optimize SEO and worked with CRM tools like Brevo and Gallabox. Handled frontend and backend tasks independently.",
+    skills: ["React Js", "Node JS", "Express Js", "Woocommerce","MySQL", "SEO", "Brevo", "Gallabox", "JavaScript"],
+  },
+    {
+    id: 2,
+    img: "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/kw8o6egkk4egfdaiod1z",
+    role: "Trainee Software Engineer",
+    company: "Areteminds Technology Private Limited",
+    date: "Feb 2023 – May 2024",
+    desc: "Designed responsive interfaces using HTML, CSS, JavaScript, and React.js. Developed RESTful APIs using Node.js and Express.js. Collaborated in an Agile team and integrated MySQL with backend services for dynamic features.",
+    skills: ["React Js", "HTML", "CSS", "JavaScript", "Node JS", "Express Js", "MySQL", "Agile"],
+  },
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/D4D0BAQE7HbMXfd-x9Q/company-logo_200_200/0/1695722714589/linkquesttechnologies_logo?e=2147483647&v=beta&t=vvw_b3ATSXxMHdzNIlJIsastQMWPhrSmQquJfugesHs",
-    role: "React JS devloper",
+    role: "Associate Software Engineer",
     company: "Linkquest Telecom South Africa (pty) Ltd",
-    date: "Dec 2021 - Till date",
-    desc: "As a React.js Developer at LinkQuest Telecom, I've been integral to numerous projects aimed at enhancing connectivity and communication solutions. LinkQuest Telecom, while primarily focused on telecommunications, also takes on projects spanning various industries, making for a dynamic and enriching work environment. In my role, I've utilized my expertise in JavaScript, React.js, Redux, SQL, HTML, CSS, Material UI, and React Native to contribute to the development of robust and scalable solutions. From frontend development to integrating complex functionalities, I've been involved in all stages of the project lifecycle. During my 2.4 years of tenure, I've not only honed my technical skills but also developed strong collaboration and problem-solving abilities. LinkQuest Telecom has provided me with the opportunity to work on diverse projects alongside talented professionals, driving innovation across different sectors.",
-    skills: ["React Js", "TypeScript","javaScript",  "HTML", "CSS", "Redux", "React Native", "Node JS", "Express Js"],
-    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    date: "Dec 2021 – Jan 2023",
+    desc: "Built responsive, mobile-first web applications using React.js, HTML, CSS, and JavaScript, ensuring consistent user experience. Developed RESTful APIs in Node.js and integrated them with MySQL for frontend features. Collaborated with cross-functional teams to implement full-stack features and resolve UI/UX issues.",
+    skills: ["React Js", "JavaScript", "HTML", "CSS", "Node JS", "Express Js", "MySQL"],
   },
+
+
   // {
   //   id: 0,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
@@ -302,6 +335,31 @@ export const education = [
 ];
 
 export const projects = [
+  {
+  id: 1,
+  title: "LONGENY",
+  date: "May 2024 – Present",
+  description:
+    "At Longeny, I contributed to building a multifunctional full-stack platform that combines e-commerce, content management, and data analytics. I developed dynamic and responsive user interfaces using React.js, and integrated WooCommerce with WordPress for seamless product listing and order processing. On the backend, I implemented RESTful APIs and business logic using Node.js and PHP, ensuring robust performance. I also integrated CRM tools like Brevo and Gallabox for customer journey automation, and optimized SEO using advanced strategies. Agile practices with CI/CD pipelines were followed to enable faster and scalable development.",
+  image:
+    "https://ashyshhfileupload.s3.eu-north-1.amazonaws.com/new/Screenshot+2025-06-17+195729.png",
+  tags: [
+    "React Js",
+    "Node JS",
+    "PHP",
+    "WordPress",
+    "WooCommerce",
+    "Brevo",
+    "Gallabox",
+    "RESTful APIs",
+    "JavaScript",
+    "CI/CD",
+    "SEO",
+  ],
+  category: "web app",
+  webapp: "https://longeny.com/"
+},
+
   {
     id: 1,
     title: "AM CHAT AI",
